@@ -1,0 +1,11 @@
+.vs/
+build/
+temp/
+include/
+lib/
+
+config.ini
+steam_api64.dll
+steam_appid.txt
+*.vcxproj.filters
+*.vcxproj.user
